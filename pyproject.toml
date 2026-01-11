@@ -1,0 +1,5 @@
+[project]
+name = "PySide Widgets Project"
+
+[tool.pyside6-project]
+files = ["client.ui", "database.py", "form.ui", "logika_client.py", "main.py"]
